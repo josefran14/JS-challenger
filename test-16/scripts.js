@@ -12,4 +12,4 @@ const Number = (a) =>{
     return Math.round(a * 100) / 100;
 }
 
-console.log(Number(26.1379))
+console.log(Number(3.1456))

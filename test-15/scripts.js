@@ -7,4 +7,4 @@ const MyFunction = (a,b) =>{
     return a < b ? a / b : a * b
 }
 
-console.log(MyFunction(90,45))
+console.log(MyFunction(90,40))

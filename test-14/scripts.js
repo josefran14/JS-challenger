@@ -11,4 +11,4 @@ const MyFunction = (a) =>{
 
 }
 
-console.log(MyFunction(20.345))
+console.log(MyFunction(22.345))
